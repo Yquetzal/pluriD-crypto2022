@@ -1,5 +1,7 @@
 # Organisateurs 
 
+## Organisateurs journées multidisciplinaires
+
 * Jérôme Blanc (Triangle, Sciences Po Lyon) [site web](http://triangle.ens-lyon.fr/spip.php?article1894)
 * Rémy Cazabet (LIRIS, Université Lyon 1) [site web](http://cazabetremy.fr/index.html)
 * Oriane Lafuente-Sampietro (Triangle, Université Lumière Lyon 2 et Université du Québec en Outaouais) [site web](http://triangle.ens-lyon.fr/spip.php?article8224)
