@@ -6,7 +6,7 @@ Le programme des journées de présentation consistera en:
 - Des présentations courtes de la part des jeunes chercheurs ayant les travaux les plus avancés
 - Des posters présentant des travaux préliminaires ou des perspectives de recherche.
 
-Programme prévisionnel:
+## Programme prévisionnel:
 
 ### 27 Juin 2022
 - Hackaton
