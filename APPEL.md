@@ -28,6 +28,7 @@ Il sera possible d’assister à l’événement sur inscription, les détails s
 
 ## Dates importantes
 **Hackaton**: 27 Juin (Détails à venir)
+
 **Journées jeunes chercheurs**: 28 et 29 Juin 2022
 
 **Date limite de soumission**: dimanche 20 Février 23:59 
