@@ -1,5 +1,4 @@
 # Programme 
-
 Le programme des journées de présentation consistera en: 
 
 - Quelques présentations longues de chercheurs invités, spécialistes du domaine.
@@ -16,7 +15,7 @@ Le programme des journées de présentation consistera en:
 - 10h00-12h30: Session 1
 - 12h30-14h00: Repas
 - 14h00- 17h30: Session 2
-- 19h:23h: événement social, dîner. => Retours hackathon ?
+- 19h:23h: événement social, dîner. Retours hackathon
 
 ### 29 Juin 2022
 
