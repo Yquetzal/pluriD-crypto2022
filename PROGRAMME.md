@@ -8,7 +8,7 @@ Le programme des journées de présentation consistera en:
 ## Programme prévisionnel:
 
 ### 27 Juin 2022
-- Hackaton
+- Hackathon
 
 ### 28 Juin 2022 
 - 8h30-10h00: accueil, introduction
