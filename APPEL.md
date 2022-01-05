@@ -27,7 +27,7 @@ Pour s’inscrire, merci de déposer un résumé court (1 page) de vos travaux s
 Il sera possible d’assister à l’événement sur inscription, les détails seront fournis ultérieurement
 
 ## Dates importantes
-**Hackaton**: 27 Juin (Détails à venir)
+**Hackathon**: 27 Juin (Détails à venir)
 
 **Journées jeunes chercheurs**: 28 et 29 Juin 2022
 
