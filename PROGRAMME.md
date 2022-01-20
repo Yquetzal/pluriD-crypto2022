@@ -5,6 +5,11 @@ Le programme des journées de présentation consistera en:
 - Des présentations courtes de la part des jeunes chercheurs ayant les travaux les plus avancés
 - Des posters présentant des travaux préliminaires ou des perspectives de recherche.
 
+## Orateurs invités:
+4 chercheurs sont invités pour donner des présentations sur leurs sujets de recherche. Nous completerons ces informations au fur et à mesure.
+- **Ariane Tichit**(CERDI, Université Clermont-Auvergne): A venir
+- ** Maël Rolland**(CEMS-EHESS): La gouvernance polycentrique et multidimensionnelle des cryptomonnaies
+- **Önder Gürcan**(CEA LIST, Paris-Saclay University): Multi-Agent Modeling for Blockchains and Cryptocurrencies analysis
 ## Programme prévisionnel:
 
 ### 27 Juin 2022
