@@ -7,7 +7,8 @@
 
 **Lieu**: Lyon, France
 
-**Réponse à l'appel**: https://easychair.org/my/conference?conf=jepcrypto2022
+**Réponse à l'appel**: https://easychair.org/my/conference?conf=jepcrypto2022 avant le 6 Mars 2022.
+
 La réponse à l'appel consiste à envoyer un document d'une page, composé de: 
 
 * Un résumé court de la présentation que vous souhaiteriez donner
