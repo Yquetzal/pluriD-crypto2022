@@ -8,6 +8,7 @@
 **Lieu**: Lyon, France
 
 **Site web**: http://alter-crypto.sci-web.net/
+
 **Réponse à l'appel**: https://easychair.org/my/conference?conf=jepcrypto2022 avant le 6 Mars 2022.
 
 La réponse à l'appel consiste à envoyer un document d'une page, composé de: 
