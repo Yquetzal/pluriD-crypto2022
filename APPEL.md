@@ -11,7 +11,7 @@
 La réponse à l'appel consiste à envoyer un document d'une page, composé de: 
 
 * Un résumé court de la présentation que vous souhaiteriez donner
-* Un description succincte de votre situation et de vos travaux: position actuelle, affiliation, éventuels travaux publiés, etc.
+* Une description succincte de votre situation et de vos travaux: position actuelle, affiliation, éventuels travaux publiés, etc.
 
 
 ## Contexte et motivation
