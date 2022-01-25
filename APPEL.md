@@ -40,5 +40,5 @@ Il sera possible d’assister à l’événement sur inscription, les détails s
 
 **Journées jeunes chercheurs**: 28 et 29 Juin 2022
 
-**Date limite de soumission**: dimanche 20 Février 23:59 
+**Date limite de soumission**: dimanche 6 Mars 23:59 
 
