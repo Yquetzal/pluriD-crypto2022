@@ -7,7 +7,12 @@
 
 **Lieu**: Lyon, France
 
-**Site web**: http://alter-crypto.sci-web.net 
+**Réponse à l'appel**: https://easychair.org/my/conference?conf=jepcrypto2022
+La réponse à l'appel consiste à envoyer un document d'une page, composé de: 
+
+* Un résumé court de la présentation que vous souhaiteriez donner
+* Un description succincte de votre situation et de vos travaux: position actuelle, affiliation, éventuels travaux publiés, etc.
+
 
 ## Contexte et motivation
 Depuis leur apparition, les crypto-monnaies ont attiré beaucoup d’attention, autant dans la sphère publique que dans le monde académique. L’une des particularités de ces monnaies alternatives est qu’il s’agit d’un système socio-technique complexe, qui ne peut être étudié ou compris du point de vue d’une seule discipline. **Innovation monétaire, perspectives sociétales et environnementales, système informatique décentralisé, enjeux financiers, questions juridiques** : toutes ces questions s'entremêlent et demandent aux chercheurs de sortir des sentiers battus pour comprendre les challenges et les opportunités offerts par les crypto-monnaies et autres monnaies alternatives numériques.
