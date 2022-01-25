@@ -22,7 +22,7 @@ L’objectif de ces journées est de rassembler tous les jeunes chercheurs -doct
 
 
 ## Déroulé de l’événement:
-Les journées jeunes chercheurs se dérouleront les 28 et 29 Juin 2022. Les participants seront invités à présenter leurs travaux soit sous la forme d’une présentation courte (env. 12 minutes +5 minutes questions), soit sous la forme d’un poster. Des chercheurs invités effectueront également des interventions plus étoffées afin de présenter et contextualiser les différentes approches disciplinaires des crypto-monnaies et monnaies alternatives numériques. 
+Les journées jeunes chercheurs se dérouleront les 28 et 29 Juin 2022. Les participants seront invités à présenter leurs travaux soit sous la forme d’une présentation courte (env. 15 minutes +5 minutes questions), soit sous la forme d’un poster. Des chercheurs invités effectueront également des interventions plus étoffées afin de présenter et contextualiser les différentes approches disciplinaires des crypto-monnaies et monnaies alternatives numériques. 
 Les pauses café et repas seront prises en commun, en laissant du temps pour la discussion informelle. Un événement social sera organisé le 28 Juin au soir.
 
 
