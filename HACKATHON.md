@@ -13,8 +13,8 @@ La participation sera gratuite, et des en-cas (pizzas, etc.) seront fournis grat
 ## Données
 Plusieurs jeux de données seront fournis aux participants, tous concernant le contenu de la blockchain Bitcoin (on-chain transactions) incluant notamment:
 
-* Ensemble des transactions de la blockchain bitcoin en format json ou CSV (données d'origine)
-* Transactions simplifiées Acteur -> Acteur (Graphe dynamique pondéré enrichi)
+* Ensemble des transactions de la blockchain bitcoin en format json/mongoDB (données d'origine)
+* Transactions simplifiées Acteur -> Acteur, format CSV (Graphe dynamique pondéré enrichi)
 * Évolution du cours du Bitcoin en BTC-USD
 * Extraits aggrégés des données: Somme des transactions entre acteurs par mois, détail des transactions pour le top 100 des plus gros acteurs identifiés (Mining Pool, plateformes d'échange, etc.)
 
