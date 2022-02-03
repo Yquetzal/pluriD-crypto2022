@@ -15,12 +15,12 @@ Plusieurs jeux de données seront fournis aux participants, incluant notamment:
 
 Les formats de données et des échantillons seront fournis une semaine avant aux groupes inscrits.
 
-L'objectif sera de fournir une analyse sous la forme de résultats, de graphiques, de statistiques, etc. Les participants auront toute la journée du 27 Juin, de 9:00 à 18:00.
+L'objectif sera de fournir une analyse sous la forme de résultats, de graphiques, de statistiques, etc. Les participants auront toute la journée du 27 Juin, de 9:00 à 19:00.
 
 La participation sera gratuite, et des en-cas (pizzas, etc.) seront fournis gratuitement aux participants.
 
 Un prix (montant à déterminer) sera attribué aux groupes vainqueurs (déterminé par un Jury composé de chercheurs en informatique et en économie)
 
-Les particants travaillerons en groupes de 2 à 4 participants. Un groupe constitué de chercheurs de disciplines différentes sera considéré comme un plus lors de l'évaluation. 
+Les participants travaillerons en groupes de 2 à 4. Un groupe constitué de personnes de disciplines différentes sera considéré comme un plus lors de l'évaluation. 
 
-Si vous souhaitez participer mais n'avez pas de groupe, vous pouvez 
+Si vous souhaitez participer mais n'avez pas de groupe, vous pouvez nous contacter et nous essaierons de former des groupes ou de vous associer à un groupe existant.
