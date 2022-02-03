@@ -18,7 +18,7 @@ Plusieurs jeux de données seront fournis aux participants, tous concernant le c
 * Évolution du cours du Bitcoin en BTC-USD
 * Extraits aggrégés des données: Somme des transactions entre acteurs par mois, détail des transactions pour le top 100 des plus gros acteurs identifiés (Mining Pool, plateformes d'échange, etc.)
 
-Les formats de données et des échantillons seront fournis une semaine avant aux groupes inscrits. Le jour J, chaque équipe aura accès à un disque dur externe avec les données, mais les participants devront travailler en utilisant leurs propres matériels.
+Les formats de données et des échantillons seront fournis une semaine avant aux groupes inscrits. Le jour J, chaque équipe aura accès à un disque dur externe avec les données, mais les participants devront travailler en utilisant leur propre matériel.
 
 ## Objectifs et Victoire
 L'objectif sera de fournir une analyse sous la forme de résultats, de graphiques, de statistiques, etc. Les participants auront toute la journée du 27 Juin, de 9:00 à 19:00.
