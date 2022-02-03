@@ -2,6 +2,9 @@
 
 Le hackaton aura lieu le 27 Juin 2022 à Lyon.
 
+Vous pouvez inscrire votre équipe jusqu'au 01 Juin en utilisant le formulaire suivant: https://docs.google.com/forms/d/1izQ-p8Y-Wmz_hwTn00oLXTCkC2A4fvobnHRw7A5UkEo/edit
+Les participant(e)s peuvent être de tous profils: étudiants, chercheurs, data scientists, amateurs de crypto-monnaies...
+
 Plusieurs jeux de données seront fournis aux participants, incluant notamment:
 
 * Ensemble des transactions de la blockchain bitcoin en format json ou CSV (données d'origine)
@@ -17,4 +20,6 @@ La participation sera gratuite, et des en-cas (pizzas, etc.) seront fournis grat
 
 Un prix (montant à déterminer) sera attribué aux groupes vainqueurs (déterminé par un Jury composé de chercheurs en informatique et en économie)
 
-Les particants travaillerons en groupes de 2 à 4 participants. Un groupe constitué de chercheurs de disciplines différentes sera considéré comme un plus lors de l'évaluation.
+Les particants travaillerons en groupes de 2 à 4 participants. Un groupe constitué de chercheurs de disciplines différentes sera considéré comme un plus lors de l'évaluation. 
+
+Si vous souhaitez participer mais n'avez pas de groupe, vous pouvez 
