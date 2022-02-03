@@ -2,7 +2,7 @@
 
 Le hackaton aura lieu le 27 Juin 2022 à Lyon.
 
-Vous pouvez inscrire votre équipe jusqu'au 01 Juin en utilisant le formulaire suivant: https://docs.google.com/forms/d/1izQ-p8Y-Wmz_hwTn00oLXTCkC2A4fvobnHRw7A5UkEo/edit
+Vous pouvez inscrire votre équipe jusqu'au 01 Juin en utilisant le formulaire suivant: 
 
 Les participant(e)s peuvent être de tous profils: étudiants, chercheurs, data scientists, amateurs de crypto-monnaies...
 
