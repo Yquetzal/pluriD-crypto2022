@@ -23,7 +23,9 @@ Les formats de données et des échantillons seront fournis une semaine avant au
 ## Objectifs et Victoire
 L'objectif sera de fournir une analyse sous la forme de résultats, de graphiques, de statistiques, etc. Les participants auront toute la journée du 27 Juin, de 9:00 à 19:00.
 
-Un prix (montant à déterminer) sera attribué aux groupes vainqueurs (déterminé par un Jury composé de chercheurs en informatique et en économie)
+Un prix (montant à déterminer) sera attribué aux groupes vainqueurs (déterminé par un Jury composé de chercheurs en informatique et en économie).
+
+Les équipes victorieuses seront invitées à présenter leurs résultats dans un cadre informel le 28 Juin dans la soirée
 
 ## Constitution des équipes
 Les participants travaillerons en équipes de 2 à 4. Une équipe constituée de personnes de disciplines différentes sera considéré comme un plus lors de l'évaluation. 
