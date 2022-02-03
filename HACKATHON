@@ -5,8 +5,8 @@ Le hackaton aura lieu le 27 Juin 2022 à Lyon.
 Plusieurs jeux de données seront fournis aux participants, incluant notamment:
 
 * Ensemble des transactions de la blockchain bitcoin en format json ou CSV (données d'origine)
-* Transaction simplifiées Acteur -> Acteur
-* Évolution du cours du Bitcoin en $
+* Transactions simplifiées Acteur -> Acteur (Graphe dynamique pondéré enrichi)
+* Évolution du cours du Bitcoin en BTC-USD
 * Extraits aggrégés des données: Somme des transactions entre acteurs par mois, détail des transactions pour le top 100 des plus gros acteurs identifiés (Mining Pool, plateformes d'échange, etc.
 
 Les format de données et des échantillons seront fournis une semaine avant aux groupes inscrits.
