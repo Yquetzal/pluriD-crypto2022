@@ -20,7 +20,7 @@ Plusieurs jeux de données seront fournis aux participants, tous concernant le c
 
 Les formats de données et des échantillons seront fournis une semaine avant aux groupes inscrits. Le jour J, chaque équipe aura accès à un disque dur externe avec les données, mais les participants devront travailler en utilisant leur propre matériel.
 
-## Objectifs et Victoire
+## Objectifs et récompense
 L'objectif sera de fournir une analyse sous la forme de résultats, de graphiques, de statistiques, etc. Les participants auront toute la journée du 27 Juin, de 9:00 à 19:00.
 
 Un prix (montant à déterminer) sera attribué aux groupes vainqueurs (déterminé par un Jury composé de chercheurs en informatique et en économie).
