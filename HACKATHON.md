@@ -25,7 +25,7 @@ L'objectif sera de fournir une analyse sous la forme de résultats, de graphique
 
 Un prix (montant à déterminer) sera attribué aux groupes vainqueurs (déterminé par un Jury composé de chercheurs en informatique et en économie).
 
-Les équipes victorieuses seront invitées à présenter leurs résultats dans un cadre informel le 28 Juin dans la soirée
+Les équipes victorieuses seront invitées à présenter leurs résultats aux participant des journées jeunes chercheurs associées, dans un cadre informel, le 28 Juin dans la soirée.
 
 ## Constitution des équipes
 Les participants travaillerons en équipes de 2 à 4. Une équipe constituée de personnes de disciplines différentes sera considéré comme un plus lors de l'évaluation. 
