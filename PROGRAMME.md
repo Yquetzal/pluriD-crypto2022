@@ -6,7 +6,7 @@ Le programme des journées de présentation consistera en:
 - Des posters présentant des travaux préliminaires ou des perspectives de recherche.
 
 ## Orateurs invités:
-4 chercheurs sont invités pour donner des présentations sur leurs sujets de recherche. Nous completerons ces informations au fur et à mesure.
+Des chercheurs sont invités pour donner des présentations sur leurs sujets de recherche. Nous completerons ces informations au fur et à mesure.
 - **Önder Gürcan**(CEA LIST, Paris-Saclay University): Multi-Agent Modeling for Blockchains and Cryptocurrencies analysis
 - **Julien Prat** (CNRS Researcher (CREST, Ecole Polytechnique, IP Paris), Head of Academic Chair *Blockchains and Platforms*
 - **Maël Rolland**(CEMS-EHESS): La gouvernance polycentrique et multidimensionnelle des cryptomonnaies
