@@ -1,0 +1,20 @@
+# Hackathon
+
+Le hackaton aura lieu le 27 Juin 2022 à Lyon.
+
+Plusieurs jeux de données seront fournis aux participants, incluant notamment:
+
+* Ensemble des transactions de la blockchain bitcoin en format json ou CSV (données d'origine)
+* Transaction simplifiées Acteur -> Acteur
+* Évolution du cours du Bitcoin en $
+* Extraits aggrégés des données: Somme des transactions entre acteurs par mois, détail des transactions pour le top 100 des plus gros acteurs identifiés (Mining Pool, plateformes d'échange, etc.
+
+Les format de données et des échantillons seront fournis une semaine avant aux groupes inscrits.
+
+L'objectif sera de fournir une analyse sous la forme de résultats, de graphiques, de statistiques, etc. Les participants auront toute la journée du 27 Juin, de 9:00 à 18:00.
+
+La participation sera gratuite, et des en-cas (pizzas, etc.) seront fournis gratuitement aux participants.
+
+Un prix (montant à déterminer) sera attribué aux groupes vainqueurs (déterminé par un Jury composé de chercheurs en informatique et en économie)
+
+Les particants travaillerons en groupes de 2 à 4 participants. Un groupe constitué de chercheurs de disciplines différentes sera considéré comme un plus lors de l'évaluation.
