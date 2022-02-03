@@ -11,7 +11,7 @@ La participation sera gratuite, et des en-cas (pizzas, etc.) seront fournis grat
 
 
 ## Données
-Plusieurs jeux de données seront fournis aux participants, incluant notamment:
+Plusieurs jeux de données seront fournis aux participants, tous concernant le contenu de la blockchain Bitcoin (on-chain transactions) incluant notamment:
 
 * Ensemble des transactions de la blockchain bitcoin en format json ou CSV (données d'origine)
 * Transactions simplifiées Acteur -> Acteur (Graphe dynamique pondéré enrichi)
