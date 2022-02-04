@@ -3,22 +3,24 @@
 Le hackaton aura lieu le 27 Juin 2022 à Lyon.
 
 ## Inscription
-Vous pouvez inscrire votre équipe jusqu'au 01 Juin en utilisant le formulaire suivant: 
+Vous pouvez inscrire votre équipe jusqu'au 01 Juin en utilisant le formulaire suivant: https://forms.gle/QYBSrffPT4CnNn3a7
 
 Les participant(e)s peuvent être de tous profils: étudiants, chercheurs, data scientists, amateurs de crypto-monnaies...
 
-La participation sera gratuite, et des en-cas (pizzas, etc.) seront fournis gratuitement aux participants.
+La participation sera gratuite, et des en-cas (pizzas, boissons, etc.) seront fournis gratuitement aux participants.
 
 
 ## Données
 Plusieurs jeux de données seront fournis aux participants, tous concernant le contenu de la blockchain Bitcoin (on-chain transactions) incluant notamment:
 
-* Ensemble des transactions de la blockchain bitcoin en format json/mongoDB (données d'origine)
-* Transactions simplifiées Acteur -> Acteur, format CSV (Graphe dynamique pondéré enrichi)
-* Évolution du cours du Bitcoin en BTC-USD
+* Données d'origine complète: Ensemble des transactions de la blockchain Bitcoin en format exploitable json jusqu'en 2021 (au moins). Un fichier par jour pour pouvoir travailler sur des échantillons et/ou en calcul parallele.
+* Données simplifiées dans une base de données pré-indexée (mongoDB/SQL...)
+* Données graphes : Transactions simplifiées Acteur -> Acteur, format CSV/Parquet (Graphe dynamique pondéré enrichi)
 * Extraits aggrégés des données: Somme des transactions entre acteurs par mois, détail des transactions pour le top 100 des plus gros acteurs identifiés (Mining Pool, plateformes d'échange, etc.)
+* Données annexe: Évolution du cours du Bitcoin en BTC-USD, dictionnaire Adresse->cluster->acteur->categorie
 
-Les formats de données et des échantillons seront fournis une semaine avant aux groupes inscrits. Le jour J, chaque équipe aura accès à un disque dur externe avec les données, mais les participants devront travailler en utilisant leur propre matériel.
+
+Les formats de données et des échantillons seront fournis une semaine avant aux groupes inscrits. Des demandes d'extraits spécifiques pourront être demandés. Le jour J, chaque équipe aura accès à un disque dur externe avec les données, mais les participants devront travailler en utilisant leur propre matériel.
 
 ## Objectifs et récompense
 L'objectif sera de fournir une analyse sous la forme de résultats, de graphiques, de statistiques, etc. Les participants auront toute la journée du 27 Juin, de 9:00 à 19:00.
