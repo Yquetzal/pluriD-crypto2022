@@ -7,17 +7,20 @@ Vous pouvez inscrire votre équipe jusqu'au 01 Juin en utilisant le formulaire s
 
 Les participant(e)s peuvent être de tous profils: étudiants, chercheurs, data scientists, amateurs de crypto-monnaies...
 
-La participation sera gratuite, et des en-cas (pizzas, boissons, etc.) seront fournis gratuitement aux participants.
+La participation sera gratuite (pour les groupes acceptés), et des en-cas (pizzas, boissons, etc.) seront fournis gratuitement aux participants.
 
 
-## Données
-Plusieurs jeux de données seront fournis aux participants, tous concernant le contenu de la blockchain Bitcoin (on-chain transactions) incluant notamment:
+## Thème et Données
+Le thème du Hackaton sera : **Une journée en Bitcoin**. Le principe sera d'analyser, de chercher à comprendre, à visualiser, etc. l'activité au cours de cette journée.
 
-* Données d'origine complète: Ensemble des transactions de la blockchain Bitcoin en format exploitable json jusqu'en 2021 (au moins). Un fichier par jour pour pouvoir travailler sur des échantillons et/ou en calcul parallele.
+Nous fournirons, pour une journée de Bitcoin choisie par nos soins, autant de données que possible issu de la Blockchain Bitcoin (on-chain transactions), ainsi que certaines données externes pouvant être utiles. Liste non définitive des données fournies :
+
+* Données de la blockchain en json: Ensemble des transactions de la blockchain Bitcoin en format json.
 * Données simplifiées dans une base de données pré-indexée (mongoDB/SQL...)
 * Données graphes : Transactions simplifiées Acteur -> Acteur, format CSV/Parquet (Graphe dynamique pondéré enrichi)
-* Extraits aggrégés des données: Somme des transactions entre acteurs par mois, détail des transactions pour le top 100 des plus gros acteurs identifiés (Mining Pool, plateformes d'échange, etc.)
 * Données annexe: Évolution du cours du Bitcoin en BTC-USD, dictionnaire Adresse->cluster->acteur->categorie
+
+Pour les groupes qui le souhaitent, des données équivalentes seront diponible pour les autres jours, mais seule l'analyse du jour choisi sera prise en compte pour l'évaluation. (Il peut être utile de comparer l'activité avec d'autres journées, mais l'ensemble des données est trop large pour être analysé efficacement en une journée sur des machines personnelles).
 
 
 Les formats de données et des échantillons seront fournis une semaine avant aux groupes inscrits. Des demandes d'extraits spécifiques pourront être demandés. Le jour J, chaque équipe aura accès à un disque dur externe avec les données, mais les participants devront travailler en utilisant leur propre matériel.
@@ -27,7 +30,7 @@ L'objectif sera de fournir une analyse sous la forme de résultats, de graphique
 
 Un prix (montant à déterminer) sera attribué aux groupes vainqueurs (déterminé par un Jury composé de chercheurs en informatique et en économie).
 
-Les équipes victorieuses seront invitées à présenter leurs résultats aux participant des journées jeunes chercheurs associées, dans un cadre informel, le 28 Juin dans la soirée.
+Les équipes victorieuses seront invitées à présenter leurs résultats aux participant des journées jeunes chercheurs associées, dans un cadre informel, le 28 Juin dans la soirée. Pour les groupes qui le souhaitent, leurs résultats seront compilés et publiés sous la forme d'un rapport sur un dépôt de pre-print.
 
 ## Constitution des équipes
 Les participants travaillerons en équipes de 2 à 4. Une équipe constituée de personnes de disciplines différentes sera considéré comme un plus lors de l'évaluation. 
