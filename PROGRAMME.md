@@ -7,10 +7,11 @@ Le programme des journées de présentation consistera en:
 
 ## Orateurs invités:
 Des chercheurs sont invités pour donner des présentations sur leurs sujets de recherche. Nous completerons ces informations au fur et à mesure.
-- **Önder Gürcan**(CEA LIST, Paris-Saclay University): Multi-Agent Modeling for Blockchains and Cryptocurrencies analysis
+- **Önder Gürcan**(CEA LIST, Paris-Saclay University) : Multi-Agent Modeling for Blockchains and Cryptocurrencies analysis
 - **Julien Prat** (CNRS Researcher (CREST, Ecole Polytechnique, IP Paris), Head of Academic Chair *Blockchains and Platforms*
-- **Maël Rolland**(CEMS-EHESS): La gouvernance polycentrique et multidimensionnelle des cryptomonnaies
-- **Ariane Tichit**(CERDI, Université Clermont-Auvergne): A venir
+- **Maël Rolland**(CEMS-EHESS) : La gouvernance polycentrique et multidimensionnelle des cryptomonnaies
+- **Ariane Tichit**(CERDI, Université Clermont-Auvergne) : A venir
+- **Françoise Vasselin**(LIPHA, Université Paris XII (UPEC)) : A venir
 
 ## Programme prévisionnel:
 
