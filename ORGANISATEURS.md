@@ -8,4 +8,4 @@
 
 ## Organisateurs Hackathon
 * Rafael Ramos Tubino (LIRIS, Université Lyon 1) [site web](https://liris.cnrs.fr/page-membre/rafael-ramos-tubino)
-* Natkamon Tovanich (IRT SystemX and Inria, Paris-Saclay) [site web](https://www.linkedin.com/in/natkamon-tovanich-00a1a5aa/?originalSubdomain=fr)
+* Natkamon Tovanich (CREST, École Polytechnique, IP Paris) [site web](https://www.linkedin.com/in/natkamon-tovanich-00a1a5aa/?originalSubdomain=fr)
