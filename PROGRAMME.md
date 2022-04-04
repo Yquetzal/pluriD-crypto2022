@@ -23,10 +23,13 @@ Des chercheurs sont invités pour donner des présentations sur leurs sujets de 
 * Dissaux Tristan : La protection des données personnelles de paiement : un enjeu multidimensionnel renouvelé par les monnaies numériques de banque centrale
 * Duval Maxime : Multilatéralité et Monnaies Numériques de Banque Centrale : L’avenir des systèmes monétaire et de paiement internationaux
 * Eisenbarth Jean-Philippe : Monitoring du Réseau Pair-à-Pair Ethereum et prévention d'attaque Sybil
+* Estecahandy Hugo : Cartographie géopolitique du réseau Bitcoin
 * Joubert Thomas H. A. : The Changing Nature of Bitcoin
 * Lafuente-Sampietro Oriane  : Mesurer la circulation des revenus dans un réseau monétaire grâce au concept de mutliplicateur
+* Laurence Nicolas : Les cryptomonnaies comme solution institutionnelle à une crise monétaire – Le cas de l’hyperinflation au Venezuela
 * Mariaux Antoine : Explosion des ordres d'achat de bitcoin avec la crise en Ukraine : les motivations des acheteurs
 * Reyns Ariane : What drives businesses to transact with Complementary Currencies ?
+* Seang, Sothearath : An introduction to Decentralised Finance: overview and case study of the Fantom blockchain ecosystem
 * Tovanich Natkamon : Pattern Analysis of Money Flows in the Bitcoin Blockchain
 * Tubino Rafael : Tracking Bitcoin Major actors
 
