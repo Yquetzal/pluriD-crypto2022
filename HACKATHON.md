@@ -9,6 +9,8 @@ Les participant(e)s peuvent être de tous profils: étudiants, chercheurs, data 
 
 La participation sera gratuite (pour les groupes acceptés), et des en-cas (pizzas, boissons, etc.) seront fournis gratuitement aux participants.
 
+Si vous souhaitez participer mais ne pouvez pas (facilement) vous rendre sur Lyon, merci de contacter : remy.cazabet@gmail.com, nous sommes ouvert à des participations à distance ou à vous aider pour le logement.
+
 
 ## Thème et Données
 Le thème du Hackaton sera : **Une journée en Bitcoin**. Le principe sera d'analyser, de chercher à comprendre, à visualiser, etc. l'activité au cours de cette journée.
