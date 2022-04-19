@@ -30,7 +30,11 @@ Les formats de données et des échantillons seront fournis une semaine avant au
 ## Objectifs et récompense
 L'objectif sera de fournir une analyse sous la forme de résultats, de graphiques, de statistiques, etc. Les participants auront toute la journée du 27 Juin, de 9:00 à 19:00.
 
-Un prix (montant à déterminer) sera attribué aux groupes vainqueurs (déterminé par un Jury composé de chercheurs en informatique et en économie).
+Des prix seront attribués aux deux équipes vainqueurs (déterminé par un Jury composé de chercheurs en informatique et en économie).
+* 1er Prix : 300 euros
+* 2eme Prix : 150 euros.
+
+Les prix sont distribués en chèques cadeaux utitisables dans de nombreuses enseignes, et sont à partager entre les membres de l'équipe.
 
 Les équipes victorieuses seront invitées à présenter leurs résultats aux participant des journées jeunes chercheurs associées, dans un cadre informel, le 28 Juin dans la soirée. Pour les groupes qui le souhaitent, leurs résultats seront compilés et publiés sous la forme d'un rapport sur un dépôt de pre-print.
 
