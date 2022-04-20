@@ -17,6 +17,8 @@ Des chercheurs sont invités pour donner des présentations sur leurs sujets de 
 - **Françoise Vasselin** (LIPHA, Université Paris XII (UPEC)) : Représentation(s) théorique(s) des crypto-monnaies : vers un modèle de valorisation (et/ou classification) ?
 
 ## Programme prévisionnel:
+### Jour 1
+
 |   | Session                       | Programme                                                                                                                                                                                                      |   |   |
 |-------|------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|---|
 | 9h00  | Accueil, petit déjeuner                        | xxxxx                                                                                                                                                                                                      |   |   |
@@ -31,6 +33,18 @@ Des chercheurs sont invités pour donner des présentations sur leurs sujets de 
 | 17h00 | Retour Hackathon                               |                                                                                                                                                                                                            |   |   |
 | 17h45 | Fin de la journée                              | xxxxx                                                                                                                                                                                                      |   |   |
 | 19h00 | Dîner Social à La Commune https://lacommune.co | Repas compris pour tous les orateurs. Les autres participants sont les bienvenus (espace propice à la discussion)                                                                                          |   |   |
+
+### Jour 2
+|   | Session                       | Programme                                                                                                                                                                                                      |   |   |
+|-------|------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|---|
+| 9h30  | keynote 3 : Önder Gürcan       | Multi-Agent Modeling for Blockchains and Cryptocurrencies analysis                                           |   |   |
+| 10h30 | Keynote-Visio : Julien Prat    | Head of Academic Chair Blockchains and B2B Platforms : A venir                                               |   |   |
+| 11h00 | Pause Café                     | xxxxx                                                                                                        |   |   |
+| 11h30   | Session 3                      | Lafuente-Sampietro, Oriane - Eisenbarth, Jean-Philippe - Tovanich, Natkamon                                  |   |   |
+| 12h30   | Pause Déjeuner                 | xxxxx                                                                                                        |   |   |
+| 14h00 | Keynote 5 : Françoise Vasselin | Représentation(s) théorique(s) des crypto-monnaies : vers un modèle de valorisation (et/ou classification) ? |   |   |
+| 15h00 | Session 4                      | Seang, Sothearath - Joubert, Thomas - Reyns, Ariane - Tubino, Rafael                                         |   |   |
+| 16h00 | Conclusion                     |     
 
 ### Liste des présentations
 * Berthou Clément : Monetary innovations by China to actively promote the internationalization of the yuan
