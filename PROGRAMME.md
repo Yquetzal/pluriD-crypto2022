@@ -18,7 +18,6 @@ Des chercheurs sont invités pour donner des présentations sur leurs sujets de 
 
 ## Programme prévisionnel:
 |   | Session                       | Programme                                                                                                                                                                                                      |   |   |
-
 | 9h00  | Accueil, petit déjeuner                        | xxxxx                                                                                                                                                                                                      |   |   |
 |-------|------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|---|
 | 9h45  | Introduction par les organisateurs             |                                                                                                                                                                                                            |   |   |
