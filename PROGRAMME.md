@@ -8,7 +8,7 @@ Le programme des journées de présentation consistera en:
 # Inscription
 La participation à l'événement en tant qu'auditeur est gratuite. Merci de vous inscrire en remplissant le formulaire suivant pour des questions d'organisation : https://tinyurl.com/alterCrypto
 
-## Orateurs invités:
+# Orateurs invités:
 Des chercheurs sont invités pour donner des présentations sur leurs sujets de recherche. Nous completerons ces informations au fur et à mesure.
 - **Önder Gürcan** (CEA LIST, Paris-Saclay University) : Multi-Agent Modeling for Blockchains and Cryptocurrencies analysis
 - **Julien Prat** (CREST, École Polytechnique, IP Paris), Head of Academic Chair [*Blockchains and B2B Platforms*](https://blockchain-chair.io/) : A venir
