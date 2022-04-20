@@ -17,6 +17,7 @@ Des chercheurs sont invités pour donner des présentations sur leurs sujets de 
 - **Françoise Vasselin** (LIPHA, Université Paris XII (UPEC)) : Représentation(s) théorique(s) des crypto-monnaies : vers un modèle de valorisation (et/ou classification) ?
 
 ## Programme prévisionnel:
+|   | Session                       | Programme                                                                                                                                                                                                      |   |   |
 
 | 9h00  | Accueil, petit déjeuner                        | xxxxx                                                                                                                                                                                                      |   |   |
 |-------|------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|---|
