@@ -48,10 +48,11 @@ Des chercheurs sont invités pour donner des présentations sur leurs sujets de 
 
 ## Session 1
 
-|-------------------|--------------------------------------------------------------------------------------------------------------------|---|---|---|
-| Estecahandy, Hugo | Cartographie géopolitique du réseau Bitcoin                                                                        |   |   |   |
-| Mariaux, Antoine  | L’explosion des ordres d’achat de bitcoins avec la crise en Ukraine : les motivations des acheteurs                |   |   |   |
-| Laurence, Nicolas | Les cryptomonnaies comme solution institutionnelle à une crise monétaire – Le cas de l’hyperinflation au Venezuela |   |   |   |
+| Nom               | Présentation                                                                                                       |
+|-------------------|--------------------------------------------------------------------------------------------------------------------|
+| Estecahandy, Hugo | Cartographie géopolitique du réseau Bitcoin                                                                        |
+| Mariaux, Antoine  | L’explosion des ordres d’achat de bitcoins avec la crise en Ukraine : les motivations des acheteurs                |
+| Laurence, Nicolas | Les cryptomonnaies comme solution institutionnelle à une crise monétaire – Le cas de l’hyperinflation au Venezuela |
 
 
 ### Liste des présentations
