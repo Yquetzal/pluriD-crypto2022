@@ -18,6 +18,20 @@ Des chercheurs sont invités pour donner des présentations sur leurs sujets de 
 
 ## Programme prévisionnel:
 
+| 9h00  | Accueil, petit déjeuner                        | xxxxx                                                                                                                                                                                                      |   |   |
+|-------|------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|---|
+| 9h45  | Introduction par les organisateurs             |                                                                                                                                                                                                            |   |   |
+| 10h   | Qui suis-je en 3 min.                          | Présentation rapide des orateurs                                                                                                                                                                           |   |   |
+| 11h   | Keynote 1 : Maël Rolland                       | La gouvernance polycentrique et multidimensionnelle des crypto-monnaie dévoilée par leurs crises : quand l'ensemble des composantes d'une communauté de paiement doit contribuer à co-produire son argent. |   |   |
+| 12h   | Pause Déjeuner                                 | xxxxx                                                                                                                                                                                                      |   |   |
+| 13h30 | Session 1                                      | Estecahandy, Hugo - Mariaux, Antoine - Laurence, Nicolas                                                                                                                                                   |   |   |
+| 14h30 | Keynote 2 : Ariane Tichit                      | La blockchain, l'avenir des monnaies locales?                                                                                                                                                              |   |   |
+| 15h30 | Pause Café                                     | xxxxx                                                                                                                                                                                                      |   |   |
+| 16h00 | Session 2                                      | Berthou, Clément - Dissaux, Tristan - Duval, Maxime                                                                                                                                                        |   |   |
+| 17h00 | Retour Hackathon                               |                                                                                                                                                                                                            |   |   |
+| 17h45 | Fin de la journée                              | xxxxx                                                                                                                                                                                                      |   |   |
+| 19h00 | Dîner Social à La Commune https://lacommune.co | Repas compris pour tous les orateurs. Les autres participants sont les bienvenus (espace propice à la discussion)                                                                                          |   |   |
+
 ### Liste des présentations
 * Berthou Clément : Monetary innovations by China to actively promote the internationalization of the yuan
 * Dissaux Tristan : La protection des données personnelles de paiement : un enjeu multidimensionnel renouvelé par les monnaies numériques de banque centrale
