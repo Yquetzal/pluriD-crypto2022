@@ -50,7 +50,7 @@ Hackathon : http://alter-crypto.sci-web.net/#HACKATHON
 | 15h00 | Session 4                      | Seang, Sothearath - Joubert, Thomas - Reyns, Ariane - Tubino, Rafael                                         |   
 | 16h00 | Conclusion                     |     
 
-# Détails des Sessions
+# Détail des Sessions
 ## Session 1
 
 | Nom               | Présentation                                                                                                       |
