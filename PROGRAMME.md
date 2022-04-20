@@ -46,6 +46,7 @@ Des chercheurs sont invités pour donner des présentations sur leurs sujets de 
 | 15h00 | Session 4                      | Seang, Sothearath - Joubert, Thomas - Reyns, Ariane - Tubino, Rafael                                         |   
 | 16h00 | Conclusion                     |     
 
+# Détails des Sessions
 ## Session 1
 
 | Nom               | Présentation                                                                                                       |
@@ -53,6 +54,30 @@ Des chercheurs sont invités pour donner des présentations sur leurs sujets de 
 | Estecahandy, Hugo | Cartographie géopolitique du réseau Bitcoin                                                                        |
 | Mariaux, Antoine  | L’explosion des ordres d’achat de bitcoins avec la crise en Ukraine : les motivations des acheteurs                |
 | Laurence, Nicolas | Les cryptomonnaies comme solution institutionnelle à une crise monétaire – Le cas de l’hyperinflation au Venezuela |
+
+## Session 2
+
+| Nom             | Présentation                                                                                                                             |
+|-----------------|------------------------------------------------------------------------------------------------------------------------------------------|
+| Berthou Clément | Monetary innovations by China to actively promote the internationalization of the yuan                                                   |
+| Dissaux Tristan | La protection des données personnelles de paiement : un enjeu multidimensionnel renouvelé par les monnaies numériques de banque centrale |
+| Duval Maxime    | Multilatéralité et Monnaies Numériques de Banque Centrale : L’avenir des systèmes monétaire et de paiement internationaux                |
+
+## Session 3
+| Nom                        | Présentation                                                                                   |
+|----------------------------|------------------------------------------------------------------------------------------------|
+| Lafuente-Sampietro, Oriane | Mesurer la circulation des revenus dans un réseau monétaire grâce au concept de mutliplicateur |
+| Eisenbarth, Jean-Philippe  | Monitoring du Réseau Pair à Pair Ethereum et prévention d'attaque Sybil                        |
+| Tovanich, Natkamon         | Pattern Analysis of Money Flows in the Bitcoin Blockchain                                      |
+
+## Session 4
+| Nom                     | Présentation                                                                                         |
+|-------------------------|------------------------------------------------------------------------------------------------------|
+| Seang, Sothearath       | An introduction to Decentralised Finance: overview and case study of the Fantom blockchain ecosystem |
+| Joubert, Thomas         | The Changing Nature of Bitcoin                                                                       |
+| Reyns, Ariane(déplacée) | What drives businesses to transact with complementary currencies ?                                   |
+| Tubino Rafael           | Découverte automatique de l'activité d'acteurs Bitcoin                                               |
+
 
 
 ### Liste des présentations
