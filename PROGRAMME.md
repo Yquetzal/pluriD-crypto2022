@@ -35,7 +35,7 @@ Des chercheurs sont invités pour donner des présentations sur leurs sujets de 
 | 19h00 | Dîner Social à La Commune https://lacommune.co | Repas compris pour tous les orateurs. Les autres participants sont les bienvenus (espace propice à la discussion)                                                                                          |   |   |
 
 ### Jour 2
-|   | Session                       | Programme                                                                                                                                                                                                      |   |   |
+|   | Session                       | Programme                                                                                                                                                                                                    |
 |-------|------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 9h30  | keynote 3 : Önder Gürcan       | Multi-Agent Modeling for Blockchains and Cryptocurrencies analysis                                           |   
 | 10h30 | Keynote-Visio : Julien Prat    | Head of Academic Chair Blockchains and B2B Platforms : A venir                                               |   
