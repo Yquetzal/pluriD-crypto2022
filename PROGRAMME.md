@@ -41,8 +41,8 @@ Hackathon : http://alter-crypto.sci-web.net/#HACKATHON
 ## Jour 2
 |   | Session                       | Programme                                                                                                                                                                                                    |
 |-------|------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 9h30  | keynote 3 : <br> Önder Gürcan       | Multi-Agent Modeling for Blockchains and Cryptocurrencies analysis                                           |   
-| 10h30 | Keynote-Visio : Julien Prat    | Head of Academic Chair Blockchains and B2B Platforms : A venir                                               |   
+| 9h30  | Keynote 3 : <br> Önder Gürcan       | Multi-Agent Modeling for Blockchains and Cryptocurrencies analysis                                           |   
+| 10h30 | Keynote-Visio : <br> Julien Prat    | Head of Academic Chair Blockchains and B2B Platforms : A venir                                               |   
 | 11h00 | Pause Café                     | xxxxx                                                                                                        |   
 | 11h30   | Session 3                      | Lafuente-Sampietro, Oriane - Eisenbarth, Jean-Philippe - Tovanich, Natkamon                                  | 
 | 12h30   | Pause Déjeuner                 | xxxxx                                                                                                        | 
