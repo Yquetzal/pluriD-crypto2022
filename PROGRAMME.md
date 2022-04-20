@@ -19,31 +19,31 @@ Des chercheurs sont invités pour donner des présentations sur leurs sujets de 
 ## Programme prévisionnel:
 ### Jour 1
 
-|   | Session                       | Programme                                                                                                                                                                                                      |   |   |
-|-------|------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|---|
-| 9h00  | Accueil, petit déjeuner                        | xxxxx                                                                                                                                                                                                      |   |   |
-| 9h45  | Introduction par les organisateurs             |                                                                                                                                                                                                            |   |   |
-| 10h   | Qui suis-je en 3 min.                          | Présentation rapide des orateurs                                                                                                                                                                           |   |   |
+|   | Session                       | Programme                        |                                                                                                                                                                              
+|-------|------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 9h00  | Accueil, petit déjeuner                        | xxxxx                                                                                                                                                                                                      | 
+| 9h45  | Introduction par les organisateurs             |                                                                                                                                                                                                            |  
+| 10h   | Qui suis-je en 3 min.                          | Présentation rapide des orateurs                                                                                                                                                                           | 
 | 11h   | Keynote 1 : Maël Rolland                       | La gouvernance polycentrique et multidimensionnelle des crypto-monnaie dévoilée par leurs crises : quand l'ensemble des composantes d'une communauté de paiement doit contribuer à co-produire son argent. |   |   |
-| 12h   | Pause Déjeuner                                 | xxxxx                                                                                                                                                                                                      |   |   |
-| 13h30 | Session 1                                      | Estecahandy, Hugo - Mariaux, Antoine - Laurence, Nicolas                                                                                                                                                   |   |   |
-| 14h30 | Keynote 2 : Ariane Tichit                      | La blockchain, l'avenir des monnaies locales?                                                                                                                                                              |   |   |
-| 15h30 | Pause Café                                     | xxxxx                                                                                                                                                                                                      |   |   |
-| 16h00 | Session 2                                      | Berthou, Clément - Dissaux, Tristan - Duval, Maxime                                                                                                                                                        |   |   |
-| 17h00 | Retour Hackathon                               |                                                                                                                                                                                                            |   |   |
-| 17h45 | Fin de la journée                              | xxxxx                                                                                                                                                                                                      |   |   |
+| 12h   | Pause Déjeuner                                 | xxxxx                                                                                                                                                                                                      |
+| 13h30 | Session 1                                      | Estecahandy, Hugo - Mariaux, Antoine - Laurence, Nicolas                                                                                                                                                   |  
+| 14h30 | Keynote 2 : Ariane Tichit                      | La blockchain, l'avenir des monnaies locales?                                                                                                                                                              |
+| 15h30 | Pause Café                                     | xxxxx                                                                                                                                                                                                      |  
+| 16h00 | Session 2                                      | Berthou, Clément - Dissaux, Tristan - Duval, Maxime                                                                                                                                                        | 
+| 17h00 | Retour Hackathon                               |                                                                                                                                                                                                            | 
+| 17h45 | Fin de la journée                              | xxxxx                                                                                                                                                                                                      |  
 | 19h00 | Dîner Social à La Commune https://lacommune.co | Repas compris pour tous les orateurs. Les autres participants sont les bienvenus (espace propice à la discussion)                                                                                          |   |   |
 
 ### Jour 2
 |   | Session                       | Programme                                                                                                                                                                                                      |   |   |
-|-------|------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|---|
-| 9h30  | keynote 3 : Önder Gürcan       | Multi-Agent Modeling for Blockchains and Cryptocurrencies analysis                                           |   |   |
-| 10h30 | Keynote-Visio : Julien Prat    | Head of Academic Chair Blockchains and B2B Platforms : A venir                                               |   |   |
-| 11h00 | Pause Café                     | xxxxx                                                                                                        |   |   |
-| 11h30   | Session 3                      | Lafuente-Sampietro, Oriane - Eisenbarth, Jean-Philippe - Tovanich, Natkamon                                  |   |   |
-| 12h30   | Pause Déjeuner                 | xxxxx                                                                                                        |   |   |
-| 14h00 | Keynote 5 : Françoise Vasselin | Représentation(s) théorique(s) des crypto-monnaies : vers un modèle de valorisation (et/ou classification) ? |   |   |
-| 15h00 | Session 4                      | Seang, Sothearath - Joubert, Thomas - Reyns, Ariane - Tubino, Rafael                                         |   |   |
+|-------|------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 9h30  | keynote 3 : Önder Gürcan       | Multi-Agent Modeling for Blockchains and Cryptocurrencies analysis                                           |   
+| 10h30 | Keynote-Visio : Julien Prat    | Head of Academic Chair Blockchains and B2B Platforms : A venir                                               |   
+| 11h00 | Pause Café                     | xxxxx                                                                                                        |   
+| 11h30   | Session 3                      | Lafuente-Sampietro, Oriane - Eisenbarth, Jean-Philippe - Tovanich, Natkamon                                  | 
+| 12h30   | Pause Déjeuner                 | xxxxx                                                                                                        | 
+| 14h00 | Keynote 5 : Françoise Vasselin | Représentation(s) théorique(s) des crypto-monnaies : vers un modèle de valorisation (et/ou classification) ? |  
+| 15h00 | Session 4                      | Seang, Sothearath - Joubert, Thomas - Reyns, Ariane - Tubino, Rafael                                         |   
 | 16h00 | Conclusion                     |     
 
 ### Liste des présentations
