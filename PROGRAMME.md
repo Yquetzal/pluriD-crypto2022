@@ -46,6 +46,13 @@ Des chercheurs sont invités pour donner des présentations sur leurs sujets de 
 | 15h00 | Session 4                      | Seang, Sothearath - Joubert, Thomas - Reyns, Ariane - Tubino, Rafael                                         |   
 | 16h00 | Conclusion                     |     
 
+## Session 1
+| Orateur | Titre |
+| Estecahandy, Hugo | Cartographie géopolitique du réseau Bitcoin                                                                        | 
+| Mariaux, Antoine  | L’explosion des ordres d’achat de bitcoins avec la crise en Ukraine : les motivations des acheteurs                | 
+| Laurence, Nicolas | Les cryptomonnaies comme solution institutionnelle à une crise monétaire – Le cas de l’hyperinflation au Venezuela |
+
+
 ### Liste des présentations
 * Berthou Clément : Monetary innovations by China to actively promote the internationalization of the yuan
 * Dissaux Tristan : La protection des données personnelles de paiement : un enjeu multidimensionnel renouvelé par les monnaies numériques de banque centrale
