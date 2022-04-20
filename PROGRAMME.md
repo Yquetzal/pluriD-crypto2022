@@ -79,7 +79,7 @@ Hackathon : http://alter-crypto.sci-web.net/#HACKATHON
 |-------------------------|------------------------------------------------------------------------------------------------------|
 | Seang, Sothearath       | An introduction to Decentralised Finance: overview and case study of the Fantom blockchain ecosystem |
 | Joubert, Thomas         | The Changing Nature of Bitcoin                                                                       |
-| Reyns, Ariane(déplacée) | What drives businesses to transact with complementary currencies ?                                   |
-| Tubino Rafael           | Découverte automatique de l'activité d'acteurs Bitcoin                                               |
+| Reyns, Ariane | What drives businesses to transact with complementary currencies ?                                   |
+| Tubino, Rafael           | Découverte automatique de l'activité d'acteurs Bitcoin                                               |
 
 
