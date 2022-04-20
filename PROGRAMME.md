@@ -16,12 +16,12 @@ Des chercheurs sont invités pour donner des présentations sur leurs sujets de 
 - **Ariane Tichit** (CERDI, Université Clermont-Auvergne) : La blockchain, l'avenir des monnaies locales?
 - **Françoise Vasselin** (LIPHA, Université Paris XII (UPEC)) : Représentation(s) théorique(s) des crypto-monnaies : vers un modèle de valorisation (et/ou classification) ?
 
-## Programme prévisionnel:
+# Programme prévisionnel:
 
-### Jour 0
+## Jour 0
 Hackathon : http://alter-crypto.sci-web.net/#HACKATHON
 
-### Jour 1
+## Jour 1
 
 |   | Session                       | Programme                        |                                                                                                                                                                              
 |-------|------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -38,7 +38,7 @@ Hackathon : http://alter-crypto.sci-web.net/#HACKATHON
 | 17h45 | Fin de la journée                              | xxxxx                                                                                                                                                                                                      |  
 | 19h00 | Dîner Social à La Commune https://lacommune.co | Repas compris pour tous les orateurs. Les autres participants sont les bienvenus (espace propice à la discussion)                                                                                          |   |   |
 
-### Jour 2
+## Jour 2
 |   | Session                       | Programme                                                                                                                                                                                                    |
 |-------|------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 9h30  | keynote 3 : Önder Gürcan       | Multi-Agent Modeling for Blockchains and Cryptocurrencies analysis                                           |   
