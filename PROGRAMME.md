@@ -47,6 +47,7 @@ Des chercheurs sont invités pour donner des présentations sur leurs sujets de 
 | 16h00 | Conclusion                     |     
 
 ## Session 1
+
 | Orateur | Titre |
 | Estecahandy, Hugo | Cartographie géopolitique du réseau Bitcoin                                                                        | 
 | Mariaux, Antoine  | L’explosion des ordres d’achat de bitcoins avec la crise en Ukraine : les motivations des acheteurs                | 
