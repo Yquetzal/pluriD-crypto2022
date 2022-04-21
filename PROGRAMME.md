@@ -18,10 +18,10 @@ Des chercheurs sont invités pour donner des présentations sur leurs sujets de 
 
 # Programme prévisionnel:
 
-## Jour 0
+## Jour 0 - 27 Juin 2022
 Hackathon : http://alter-crypto.sci-web.net/#HACKATHON
 
-## Jour 1
+## Jour 1 - 28 Juin 2022
 
 |   | Session                       | Programme                        |                                                                                                                                                                              
 |-------|------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -38,7 +38,7 @@ Hackathon : http://alter-crypto.sci-web.net/#HACKATHON
 | 17h45 | Fin de la journée                              |                                                                                                                                                                                                       |  
 | 19h00 | Dîner Social à La Commune https://lacommune.co | Repas compris pour tous les orateurs. Les autres participants sont les bienvenus (espace propice à la discussion)                                                                                          |   |   |
 
-## Jour 2
+## Jour 2 - 29 Juin 2022
 |   | Session                       | Programme                                                                                                                                                                                                    |
 |-------|------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 9h30  | **Keynote 3** : <br> Önder Gürcan       | Multi-Agent Modeling for Blockchains and Cryptocurrencies analysis                                           |   
