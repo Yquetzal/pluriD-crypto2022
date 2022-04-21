@@ -23,7 +23,7 @@ Hackathon : http://alter-crypto.sci-web.net/#HACKATHON
 
 ## Jour 1 - 28 Juin 2022
 
-|   | Session                       | Programme                        |                                                                                                                                                                              
+|   | Session  | Programme                        |                                                                                                                                                                              
 |-------|------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 9h00  | Accueil, petit déjeuner                        |                                                                                                                                                                                                       | 
 | 9h45  | Introduction par les organisateurs             |                                                                                                                                                                                                            |  
@@ -39,7 +39,7 @@ Hackathon : http://alter-crypto.sci-web.net/#HACKATHON
 | 19h00 | Dîner Social à La Commune https://lacommune.co | Repas compris pour tous les orateurs. Les autres participants sont les bienvenus (espace propice à la discussion)                                                                                          |   |   |
 
 ## Jour 2 - 29 Juin 2022
-|   | Session                       | Programme                                                                                                                                                                                                    |
+|   | Session                 | Programme                                                                                                                                                                                                    |
 |-------|------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 9h30  | **Keynote 3** : <br> Önder Gürcan       | Multi-Agent Modeling for Blockchains and Cryptocurrencies analysis                                           |   
 | 10h30 | Keynote-Visio : <br> Julien Prat    | Head of Academic Chair Blockchains and B2B Platforms : A venir                                               |   
