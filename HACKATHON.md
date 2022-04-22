@@ -1,6 +1,6 @@
 # Hackathon
 
-Le hackaton aura lieu le 27 Juin 2022 à Lyon.
+Le hackaton aura lieu le 27 Juin 2022 à Lyon, sur le Campus de la Doua
 
 ## Inscription
 Vous pouvez inscrire votre équipe jusqu'au 01 Juin en utilisant le formulaire suivant: https://forms.gle/QYBSrffPT4CnNn3a7
@@ -11,6 +11,8 @@ La participation sera gratuite (pour les groupes acceptés), et des en-cas (pizz
 
 Si vous souhaitez participer mais ne pouvez pas (facilement) vous rendre sur Lyon, merci de contacter : remy.cazabet@gmail.com, nous sommes ouvert à des participations à distance ou à vous aider pour le logement.
 
+## Lieu
+Le Hackathon aura lieu en salle C4, Université Lyon 1, [Bâtiment Nautibus, Campus de la Doua, Villeurbanne](https://goo.gl/maps/zVHrh78Wq2q7wZrc7).
 
 ## Thème et Données
 Le thème du Hackaton sera : **Une journée en Bitcoin**. Le principe sera d'analyser, de chercher à comprendre, à visualiser, etc. l'activité au cours de cette journée.
