@@ -1,7 +1,7 @@
 # Crypto-monnaies et autres monnaies alternatives numériques 
 ## Journées d’étude pluridisciplinaire jeunes chercheurs
 ### 28-29 Juin 2022. + Hackathon : 27 Juin
-### Lyon, Amphi ...
+### Lyon, Amphi Lucie et Raymond Aubrac, 14 Avenue Berthelot, Lyon (Séminaire) + Bâtiment Nautibus, Campus de la Doua (Hackathon)
 
 ### Pour vous inscrire à l'événement en tant qu'auditeur (participation gratuite) https://tinyurl.com/alterCrypto
 
