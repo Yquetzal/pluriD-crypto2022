@@ -45,4 +45,4 @@ Les participants travaillerons en équipes de 2 à 4. Une équipe constituée de
 
 Si vous souhaitez participer mais n'avez pas d'équipe, vous pouvez nous contacter et nous essaierons de former des groupes ou de vous associer à une équipe existante.
 
-<img src="https://github.com/Yquetzal/DefiEGC2023/blob/main/pics/network.png?raw=true" alt="drawing" width="600" class="center"/>
+<img src="https://github.com/Yquetzal/DefiEGC2023/blob/main/pics/network.png?raw=true" alt="drawing" width="80%"/>
