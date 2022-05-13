@@ -44,3 +44,5 @@ Les équipes victorieuses seront invitées à présenter leurs résultats aux pa
 Les participants travaillerons en équipes de 2 à 4. Une équipe constituée de personnes de disciplines différentes sera considéré comme un plus lors de l'évaluation. 
 
 Si vous souhaitez participer mais n'avez pas d'équipe, vous pouvez nous contacter et nous essaierons de former des groupes ou de vous associer à une équipe existante.
+
+![Exemple de visualisation d'un réseau quotidien](https://github.com/Yquetzal/DefiEGC2023/blob/main/pics/network.png?raw=true)
