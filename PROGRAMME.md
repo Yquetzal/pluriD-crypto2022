@@ -63,7 +63,7 @@ Hackathon : http://alter-crypto.sci-web.net/#HACKATHON
 |-------------------|--------------------------------------------------------------------------------------------------------------------|
 | Estecahandy, Hugo | Cartographie géopolitique du réseau Bitcoin                                                                        |
 | Laurence, Nicolas | Les cryptomonnaies comme solution institutionnelle à une crise monétaire – Le cas de l’hyperinflation au Venezuela |
-| Teresa Rachael Santos |  |
+| Teresa Rachael Santos | Gouvernance des crypto-monnaies solidaires: défis d'alignement entre gouvernance communautaire et architecture technologique(visio) |
 
 ## Session 2
 
