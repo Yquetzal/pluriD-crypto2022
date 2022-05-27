@@ -9,7 +9,7 @@ Le programme des journées de présentation consistera en:
 La participation à l'événement en tant qu'auditeur est gratuite. Merci de vous inscrire en remplissant le formulaire suivant pour des questions d'organisation : https://tinyurl.com/alterCrypto
 
 # Lieu
-* Les journées du 28 et 29 auront lieu à l'[amphithéâtre Lucie et Raymond Aubrac](https://www.sciencespo-lyon.fr/sites/default/files/20210216_plan_campus_Sciences_Po_Lyon.pdf), au Centre Max Weber, [14 avenue Berthelot 69007 Lyon](https://goo.gl/maps/euS7iT4qECo6GyMY7).
+* Les journées du 28 et 29 auront lieu à l'[amphithéâtre Lucie et Raymond Aubrac](https://www.sciencespo-lyon.fr/sites/default/files/20210216_plan_campus_Sciences_Po_Lyon.pdf), Science Po Lyon, [14 avenue Berthelot 69007 Lyon](https://goo.gl/maps/euS7iT4qECo6GyMY7).
 * Le Hackathon aura lieu pour sa part en salle C4, Université Lyon 1, [Bâtiment Nautibus, Campus de la Doua, Villeurbanne](https://goo.gl/maps/zVHrh78Wq2q7wZrc7).
 
 Ces différents lieux sont facilement accessible en transport en commun, et sont situés à moins d'une demi-heure de la gare TGV de la Part-Dieu.
