@@ -53,7 +53,7 @@ Hackathon : http://alter-crypto.sci-web.net/#HACKATHON
 | 11h30   | Session 3                      | Lafuente-Sampietro, Oriane - Eisenbarth, Jean-Philippe - Tovanich, Natkamon                                  | 
 | 12h30   | Pause Déjeuner                 |                                                                                                         | 
 | 14h00 | **Keynote 5** : <br> Françoise Vasselin | Représentation(s) théorique(s) des crypto-monnaies : vers un modèle de valorisation (et/ou classification) ? |  
-| 15h00 | Session 4                      | Seang, Sothearath - Joubert, Thomas - Reyns, Ariane - Tubino, Rafael                                         |   
+| 15h00 | Session 4                      |  Joubert, Thomas - Reyns, Ariane - Tubino, Rafael                                         |   
 | 16h00 | Conclusion                     |     
 
 # Détail des Sessions
@@ -83,7 +83,6 @@ Hackathon : http://alter-crypto.sci-web.net/#HACKATHON
 ## Session 4
 | Nom                     | Présentation                                                                                         |
 |-------------------------|------------------------------------------------------------------------------------------------------|
-| Seang, Sothearath       | An introduction to Decentralised Finance: overview and case study of the Fantom blockchain ecosystem |
 | Joubert, Thomas         | The Changing Nature of Bitcoin                                                                       |
 | Reyns, Ariane | What drives businesses to transact with complementary currencies ?                                   |
 | Tubino, Rafael           | Découverte automatique de l'activité d'acteurs Bitcoin                                               |
