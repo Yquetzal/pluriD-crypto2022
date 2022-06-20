@@ -8,9 +8,10 @@ Le programme des journées de présentation consistera en:
 # Inscription
 La participation à l'événement en tant qu'auditeur est gratuite. Merci de vous inscrire en remplissant le formulaire suivant pour des questions d'organisation : https://tinyurl.com/alterCrypto
 
-# Lieu
+# Lieux
 * Les journées du 28 et 29 auront lieu à l'[amphithéâtre Lucie et Raymond Aubrac](https://www.sciencespo-lyon.fr/sites/default/files/20210216_plan_campus_Sciences_Po_Lyon.pdf), Science Po Lyon, [14 avenue Berthelot 69007 Lyon](https://goo.gl/maps/euS7iT4qECo6GyMY7).
 * Le Hackathon aura lieu pour sa part en salle C4, Université Lyon 1, [Bâtiment Nautibus, Campus de la Doua, Villeurbanne](https://goo.gl/maps/zVHrh78Wq2q7wZrc7).
+* Le dîner du 28 au soir aura lieu à La Commune https://lacommune.co.
 
 Ces différents lieux sont facilement accessible en transport en commun, et sont situés à moins d'une demi-heure de la gare TGV de la Part-Dieu.
 
@@ -42,7 +43,7 @@ Hackathon : http://alter-crypto.sci-web.net/#HACKATHON
 | 16h00 | Session 2                                      | Berthou, Clément - Dissaux, Tristan - Duval, Maxime                                                                                                                                                        | 
 | 17h00 | Retour Hackathon                               |                                                                                                                                                                                                            | 
 | 17h45 | Fin de la journée                              |                                                                                                                                                                                                       |  
-| 19h00 | Dîner Social à La Commune https://lacommune.co | Repas compris pour tous les orateurs. Les autres participants sont les bienvenus (espace propice à la discussion)                                                                                          |   |   |
+| 19h00 | Dîner Convivial à La Commune https://lacommune.co | Repas compris pour tous les orateurs. Les autres participants sont les bienvenus (espace propice à la discussion)                                                                                          |   |   |
 
 ## Jour 2 - 29 Juin 2022
 |   | Session                 | Programme                                                                                                                                                                                                    |
