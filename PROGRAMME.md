@@ -18,7 +18,7 @@ Ces différents lieux sont facilement accessible en transport en commun, et sont
 # Orateurs invités:
 Des chercheurs sont invités pour donner des présentations sur leurs sujets de recherche. Nous completerons ces informations au fur et à mesure.
 - **Önder Gürcan** (CEA LIST, Paris-Saclay University) : Multi-Agent Modeling for Blockchains and Cryptocurrencies analysis
-- **Julien Prat** (CREST, École Polytechnique, IP Paris), Head of Academic Chair [*Blockchains and B2B Platforms*](https://blockchain-chair.io/) : A venir
+- **Julien Prat** (CREST, École Polytechnique, IP Paris), Head of Academic Chair [*Blockchains and B2B Platforms*](https://blockchain-chair.io/) : The Microeconomic Foundations of Automated Market Makers
 - **Maël Rolland** (CEMS-EHESS) : La gouvernance polycentrique et multidimensionnelle des crypto-monnaie dévoilée par leurs crises : quand l'ensemble des composantes d'une communauté de paiement doit contribuer à co-produire son argent.
 - **Ariane Tichit** (CERDI, Université Clermont-Auvergne) : La blockchain, l'avenir des monnaies locales?
 - **Françoise Vasselin** (LIPHA, Université Paris XII (UPEC)) : Représentation(s) théorique(s) des crypto-monnaies : vers un modèle de valorisation (et/ou classification) ?
