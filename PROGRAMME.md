@@ -49,7 +49,7 @@ Hackathon : http://alter-crypto.sci-web.net/#HACKATHON
 |   | Session                 | Programme                                                                                                                                                                                                    |
 |-------|------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 9h30  | **Keynote 3** : <br> Önder Gürcan       | Multi-Agent Modeling for Blockchains and Cryptocurrencies analysis                                           |   
-| 10h30 | Keynote-Visio : <br> Julien Prat    | Head of Academic Chair Blockchains and B2B Platforms : A venir                                               |   
+| 10h30 | Keynote-Visio : <br> Julien Prat    | The Microeconomic Foundations of Automated Market Makers                                               |   
 | 11h00 | Pause Café                     |                                                                                                         |   
 | 11h30   | Session 3                      | Lafuente-Sampietro, Oriane - Eisenbarth, Jean-Philippe - Tovanich, Natkamon                                  | 
 | 12h30   | Pause Déjeuner                 |                                                                                                         | 
