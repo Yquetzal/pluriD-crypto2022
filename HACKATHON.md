@@ -1,6 +1,9 @@
 # Hackathon
 
-Le hackaton aura lieu le 27 Juin 2022 à Lyon, sur le Campus de la Doua
+Le hackaton aura lieu le 27 Juin 2022 à Lyon, sur le Campus de la Doua.
+**Lieux : Salle C4 à 9:00.**
+La salle est au rez de chaussée.
+
 
 ## Inscription
 Vous pouvez inscrire votre équipe jusqu'au 15 Juin en utilisant le formulaire suivant: https://forms.gle/QYBSrffPT4CnNn3a7
