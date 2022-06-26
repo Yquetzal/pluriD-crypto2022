@@ -64,7 +64,7 @@ Hackathon : http://alter-crypto.sci-web.net/#HACKATHON
 |-------------------|--------------------------------------------------------------------------------------------------------------------|
 | Estecahandy, Hugo | Cartographie géopolitique du réseau Bitcoin                                                                        |
 | Laurence, Nicolas | Les cryptomonnaies comme solution institutionnelle à une crise monétaire – Le cas de l’hyperinflation au Venezuela |
-| Teresa Rachael Santos | Gouvernance des crypto-monnaies solidaires: défis d'alignement entre gouvernance communautaire et architecture technologique(visio) |
+| Teresa Rachael Santos | Gouvernance des crypto-monnaies solidaires: défis d'alignement entre gouvernance communautaire et architecture technologique(v) |
 
 ## Session 2
 
@@ -79,12 +79,12 @@ Hackathon : http://alter-crypto.sci-web.net/#HACKATHON
 |----------------------------|------------------------------------------------------------------------------------------------|
 | Lafuente-Sampietro, Oriane | Mesurer la circulation des revenus dans un réseau monétaire grâce au concept de mutliplicateur |
 | Eisenbarth, Jean-Philippe  | Monitoring du Réseau Pair à Pair Ethereum et prévention d'attaque Sybil                        |
-| Tovanich, Natkamon         | Pattern Analysis of Money Flows in the Bitcoin Blockchain                                      |
+| Tovanich, Natkamon(v)         | Pattern Analysis of Money Flows in the Bitcoin Blockchain                                      |
 
 ## Session 4
 | Nom                     | Présentation                                                                                         |
 |-------------------------|------------------------------------------------------------------------------------------------------|
-| Joubert, Thomas         | The Changing Nature of Bitcoin                                                                       |
+| Joubert, Thomas(v)         | The Changing Nature of Bitcoin                                                                       |
 | Reyns, Ariane | What drives businesses to transact with complementary currencies ?                                   |
 | Tubino, Rafael           | Découverte automatique de l'activité d'acteurs Bitcoin                                               |
 
