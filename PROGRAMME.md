@@ -1,4 +1,7 @@
 # Programme 
+
+Lien Zoom : https://cnrs.zoom.us/j/92552091397?pwd=VXE1VjNWMFlERVpoUmpYcmYxNUtoZz09
+
 Le programme des journées de présentation consistera en: 
 
 - Quelques présentations longues de chercheurs invités, spécialistes du domaine.
