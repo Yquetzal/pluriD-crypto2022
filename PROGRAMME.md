@@ -53,7 +53,7 @@ Hackathon : http://alter-crypto.sci-web.net/#HACKATHON
 | 11h00 | Pause Café                     |                                                                                                         |   
 | 11h30   | Session 3                      | Lafuente-Sampietro, Oriane - Eisenbarth, Jean-Philippe - Tovanich, Natkamon(v)                                  | 
 | 12h30   | Pause Déjeuner                 |                                                                                                         | 
-| 14h00 | **Keynote 5** : <br> ~~Françoise Vasselin | Représentation(s) théorique(s) des crypto-monnaies : vers un modèle de valorisation (et/ou classification) ?~~ |  
+| 14h00 | **Keynote 5** : <br> ~~Françoise Vasselin~~ | ~~Représentation(s) théorique(s) des crypto-monnaies : vers un modèle de valorisation (et/ou classification) ?~~ |  
 | 15h00 | Session 4                      |  Joubert, Thomas(v) - Reyns, Ariane - Tubino, Rafael                                         |   
 | 16h00 | Conclusion                     |     
 
