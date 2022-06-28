@@ -21,7 +21,7 @@ Des chercheurs sont invités pour donner des présentations sur leurs sujets de 
 - **Julien Prat** (CREST, École Polytechnique, IP Paris), Head of Academic Chair [*Blockchains and B2B Platforms*](https://blockchain-chair.io/) : The Microeconomic Foundations of Automated Market Makers
 - **Maël Rolland** (CEMS-EHESS) : La gouvernance polycentrique et multidimensionnelle des crypto-monnaie dévoilée par leurs crises : quand l'ensemble des composantes d'une communauté de paiement doit contribuer à co-produire son argent.
 - **Ariane Tichit** (CERDI, Université Clermont-Auvergne) : La blockchain, l'avenir des monnaies locales?
-- **Françoise Vasselin** (LIPHA, Université Paris XII (UPEC)) : Représentation(s) théorique(s) des crypto-monnaies : vers un modèle de valorisation (et/ou classification) ?
+- ~~**Françoise Vasselin** (LIPHA, Université Paris XII (UPEC)) : Représentation(s) théorique(s) des crypto-monnaies : vers un modèle de valorisation (et/ou classification) ?~~
 
 # Programme prévisionnel:
 
@@ -37,7 +37,7 @@ Hackathon : http://alter-crypto.sci-web.net/#HACKATHON
 | 10h   | Qui suis-je en 3 min.                          | Présentation rapide des orateurs. Ordre : Estecahandy, Hugo. Laurence, Nicolas. Berthou Clément. Dissaux Tristan. Duval Maxime. Lafuente-Sampietro, Oriane. Eisenbarth, Jean-Philippe. Tovanich, Natkamon. Joubert, Thomas. Reyns, Ariane. Tubino, Rafael.                                                                                                                                                                        | 
 | 11h   | **Keynote 1** : <br> Maël Rolland                       | La gouvernance polycentrique et multidimensionnelle des crypto-monnaie dévoilée par leurs crises : quand l'ensemble des composantes d'une communauté de paiement doit contribuer à co-produire son argent. |   |   |
 | 12h   | Pause Déjeuner                                 |                                                                                                                                                                                                       |
-| 13h30 | Session 1                                      | Estecahandy, Hugo - Laurence, Nicolas - Teresa Rachael Santos                                                                                                                                                   |  
+| 13h30 | Session 1                                      | Estecahandy, Hugo - Laurence, Nicolas - Teresa Rachael Santos(v)                                                                                                                                                   |  
 | 14h30 | **Keynote 2** : <br> Ariane Tichit                      | La blockchain, l'avenir des monnaies locales?                                                                                                                                                              |
 | 15h30 | Pause Café                                     |                                                                                                                                                                                                       |  
 | 16h00 | Session 2                                      | Berthou, Clément - Dissaux, Tristan - Duval, Maxime                                                                                                                                                        | 
@@ -49,12 +49,12 @@ Hackathon : http://alter-crypto.sci-web.net/#HACKATHON
 |   | Session                 | Programme                                                                                                                                                                                                    |
 |-------|------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 9h30  | **Keynote 3** : <br> Önder Gürcan       | Multi-Agent Modeling for Blockchains and Cryptocurrencies analysis                                           |   
-| 10h30 | Keynote-Visio : <br> Julien Prat    | The Microeconomic Foundations of Automated Market Makers                                               |   
+| 10h30 | Keynote-Visio : <br> Julien Prat(v)    | The Microeconomic Foundations of Automated Market Makers                                               |   
 | 11h00 | Pause Café                     |                                                                                                         |   
-| 11h30   | Session 3                      | Lafuente-Sampietro, Oriane - Eisenbarth, Jean-Philippe - Tovanich, Natkamon                                  | 
+| 11h30   | Session 3                      | Lafuente-Sampietro, Oriane - Eisenbarth, Jean-Philippe - Tovanich, Natkamon(v)                                  | 
 | 12h30   | Pause Déjeuner                 |                                                                                                         | 
-| 14h00 | **Keynote 5** : <br> Françoise Vasselin | Représentation(s) théorique(s) des crypto-monnaies : vers un modèle de valorisation (et/ou classification) ? |  
-| 15h00 | Session 4                      |  Joubert, Thomas - Reyns, Ariane - Tubino, Rafael                                         |   
+| 14h00 | **Keynote 5** : <br> ~~Françoise Vasselin | Représentation(s) théorique(s) des crypto-monnaies : vers un modèle de valorisation (et/ou classification) ?~~ |  
+| 15h00 | Session 4                      |  Joubert, Thomas(v) - Reyns, Ariane - Tubino, Rafael                                         |   
 | 16h00 | Conclusion                     |     
 
 # Détail des Sessions
@@ -64,7 +64,7 @@ Hackathon : http://alter-crypto.sci-web.net/#HACKATHON
 |-------------------|--------------------------------------------------------------------------------------------------------------------|
 | Estecahandy, Hugo | Cartographie géopolitique du réseau Bitcoin                                                                        |
 | Laurence, Nicolas | Les cryptomonnaies comme solution institutionnelle à une crise monétaire – Le cas de l’hyperinflation au Venezuela |
-| Teresa Rachael Santos | Gouvernance des crypto-monnaies solidaires: défis d'alignement entre gouvernance communautaire et architecture technologique(v) |
+| Teresa Rachael Santos(v) | Gouvernance des crypto-monnaies solidaires: défis d'alignement entre gouvernance communautaire et architecture technologique |
 
 ## Session 2
 
