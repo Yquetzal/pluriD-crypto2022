@@ -1,7 +1,5 @@
 # Programme 
 
-Lien Zoom : https://cnrs.zoom.us/j/92552091397?pwd=VXE1VjNWMFlERVpoUmpYcmYxNUtoZz09
-
 Le programme des journées de présentation consistera en: 
 
 - Quelques présentations longues de chercheurs invités, spécialistes du domaine.
@@ -41,7 +39,7 @@ Hackathon : http://alter-crypto.sci-web.net/#HACKATHON
 | 11h   | **Keynote 1** : <br> Maël Rolland                       | La gouvernance polycentrique et multidimensionnelle des crypto-monnaie dévoilée par leurs crises : quand l'ensemble des composantes d'une communauté de paiement doit contribuer à co-produire son argent. |   |   |
 | 12h   | Pause Déjeuner                                 |                                                                                                                                                                                                       |
 | 13h30 | Session 1                                      | Estecahandy, Hugo - Laurence, Nicolas - Teresa Rachael Santos(v)                                                                                                                                                   |  
-| 14h30 | **Keynote 2** : <br> Ariane Tichit                      | La blockchain, l'avenir des monnaies locales?                                                                                                                                                              |
+| 14h30 | **Keynote 2** : <br> [Ariane Tichit](http://alter-crypto.sci-web.net/slides/Ariane.pdf)                      | La blockchain, l'avenir des monnaies locales?                                                                                                                                                              |
 | 15h30 | Pause Café                                     |                                                                                                                                                                                                       |  
 | 16h00 | Session 2                                      | Berthou, Clément - Dissaux, Tristan - Duval, Maxime                                                                                                                                                        | 
 | 17h00 | Retour Hackathon                               |                                                                                                                                                                                                            | 
